@@ -2,3 +2,4 @@ Python is the most popular language
 Rust is an upcoming language
 Visual studio is the 1st IDE
 apps developed in dot net core can be run on any platforms.
+Simon steward is the inventor of selenium.
